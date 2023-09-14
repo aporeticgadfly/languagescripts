@@ -3,13 +3,17 @@ import csv
 import opencc
 from PIL import Image, ImageDraw, ImageFont
 
-parser = argparse.ArgumentParser(prog='UnihanLookup.py', description='takes in list of traditional characters and outputs and writes corresponding simplified and japanese characters and their meanings')
-parser.add_argument('output', help='name of txt file to output to')
-parser.add_argument('input', help="path of input csv")
-parser.add_argument('-u', '--unihan', help="path of unihan database")
+parser = argparse.ArgumentParser(
+    prog="UnihanLookup.py",
+    description="takes in list of traditional characters and outputs and writes corresponding simplified and japanese characters and their meanings",
+)
+parser.add_argument("output", help="name of txt file to output to")
+parser.add_argument("input", help="path of input csv")
+parser.add_argument("-u", "--unihan", help="path of unihan database")
 args = parser.parse_args()
 
-def get_unicode_codepoint():
+# def get_unicode_codepoint():
+
 
 def convert_to_glyph():
     width, height = 200, 100
@@ -29,23 +33,34 @@ def convert_to_glyph():
     # Save or display the rendered image
     image.save("character_rendering.png")
 
-def get_meanings():
-    #EDICT/CEDICT Or whatever
+
+# def get_meanings():
+# EDICT/CEDICT Or whatever
+
 
 def main():
-
-    with open(input_file, 'r') as csv_file:
+    with open(input_file, "r") as csv_file:
         csv_writer = csv.writer(f)
-        csv_writer.writerow(["Traditional Character", "Traditional Meanings", "Simplified Character", "Simplified Meanings", "Japanese Character", "Japanese Meanings"])
+        csv_writer.writerow(
+            [
+                "Traditional Character",
+                "Traditional Meanings",
+                "Simplified Character",
+                "Simplified Meanings",
+                "Japanese Character",
+                "Japanese Meanings",
+            ]
+        )
         # Create a CSV reader object
         csv_reader = csv.reader(csv_file)
-    
+
         # Loop through each row in the CSV file
         for row in csv_reader:
             get_unicode_codepoint()
             convert_to_glyph()
             get_meanings()
             output()
+
 
 if __name__ == "__main__":
     main()

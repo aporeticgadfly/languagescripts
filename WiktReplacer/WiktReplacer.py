@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #replaces words w input w wiktionary entries to provide a more detailed and accurate definition
 #this one ONLY does a series of comma separated values, assuming no new lines!!!
+#TODO: add HTML insertion between separate word definitions
 from wiktionaryparser import WiktionaryParser
 wiktParser = WiktionaryParser()
 import argparse

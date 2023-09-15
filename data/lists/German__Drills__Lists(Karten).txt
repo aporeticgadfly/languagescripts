@@ -1,0 +1,391 @@
+#separator:tab
+#html:true
+"List
+
+"	
+"list
+
+"	
+"Inseparable Common
+
+"	
+"Inseparable Incommon
+
+"	
+"Separable
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"what are the accusative prepositions?
+
+"	
+"what are the dative prepositions?
+
+"	
+"What are the two way prepositions?
+
+"	
+"what are the genitive prepositions?
+
+"	
+w	sein, werden, bleiben, heissen, scheinen
+wha	gut bange heiss kalt schlecht schwindlig u.bel warm (un)wohl
+w	auBer, gegenu.ber, ohne, seit, all gens
+list	beiBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>biegen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>bieten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>bleiben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>brennen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>bringen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>denken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>dreschen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>du.rfen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>erwa.gen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>fliegen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>fliehen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>flieBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>frieren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>ga.ren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>gedeihen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>genieBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>gieBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>gleichen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>gleiten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>greifen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>heben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>kennen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>kneifen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>kriechen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>leiden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>leihen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>lu.gen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>meiden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>mo.gen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>nennen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>pfeifen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>preisen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>quellen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>reiben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>reiBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>reiten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>rennen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>riechen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>saufen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>scheiden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>scheinen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>scheren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schieben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schieBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schleichen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schlieBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schmeiBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schmelzen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schneiden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schreiben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schreien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schreiten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schweigen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schwellen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schwo.ren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>speien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>sprieBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>stehen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>steigen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>streichen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>streiten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>treiben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>tru.gen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>verlieren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>weichen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>weisen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>wiegen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>wissen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>ziehen&nbsp;
+list	essen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>gehen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>haben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>helfen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>nehmen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>sein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>sitzen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>sprechen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>treffen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>trinken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>werden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>befehlen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>beginnen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>empfehlen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>erschrecken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>finden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>gewinnen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>kommen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>liegen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>rufen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schwimmen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>singen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>sinken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>springen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>stechen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>stehlen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>sterben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>stinken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>tun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>verderben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>werfen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>zwingen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>binden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>bitten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>brechen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schwinden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>bergen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>ein|dringen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>empfinden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>gelingen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>heiBen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>klingen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>misslingen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>schlingen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>spinnen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>werben&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>geba.ren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>gelten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>ringen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>rinnen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>sinnen&nbsp; &nbsp; &nbsp;
+list	"<table>
+
+<tbody><tr>
+<td>sich duschen, acc</td>
+</tr>
+<tr>
+<td>sich waschen, acc</td>
+</tr>
+<tr>
+<td>sich anziehen, acc</td>
+</tr>
+<tr>
+<td>sich ausziehen</td>
+</tr>
+<tr>
+<td>sich baden, acc</td>
+</tr>
+<tr>
+<td>sich befinden, acc</td>
+</tr>
+<tr>
+<td>sich beschweren (über)</td>
+</tr>
+<tr>
+<td>sich freuen, acc</td>
+</tr>
+<tr>
+<td>sich fühlen, acc</td>
+</tr>
+<tr>
+<td>sich informieren, acc</td>
+</tr>
+<tr>
+<td>sich interessieren, acc</td>
+</tr>
+<tr>
+<td>sich kämmen, acc</td>
+</tr>
+<tr>
+<td>sich legen, acc</td>
+</tr>
+<tr>
+<td>sich rasieren, acc</td>
+</tr>
+<tr>
+<td>sich setzen, acc</td>
+</tr>
+<tr>
+<td>sich stellen, acc</td>
+</tr>
+<tr>
+<td>sich treffen, acc</td>
+</tr>
+<tr>
+<td>sich verletzen, acc</td>
+</tr>
+<tr>
+<td>sich verabschieden, acc</td>
+</tr>
+<tr>
+<td>sich vorstellen, acc</td>
+</tr>
+<tr>
+<td>sich die Haare bürsten, dat</td>
+</tr>
+<tr>
+<td>sich die Haare kämmen, dat</td>
+</tr>
+<tr>
+<td>sich etwas anziehen, dat</td>
+</tr>
+<tr>
+<td>sich etwas ausziehen, dat</td>
+</tr>
+<tr>
+<td>sich etwas putzen, dat</td>
+</tr>
+<tr>
+<td>sich wehtun, dat</td>
+</tr>
+<tr>
+<td>sich ändern, acc</td>
+</tr>
+<tr>
+<td>sich anmelden, acc</td>
+</tr>
+<tr>
+<td>sich anschauen, acc</td>
+</tr>
+<tr>
+<td>sich anschnallen, acc</td>
+</tr>
+<tr>
+<td>sich ärgern, acc</td>
+</tr>
+<tr>
+<td>sich bedanken, acc</td>
+</tr>
+<tr>
+<td>sich beeilen, acc</td>
+</tr>
+<tr>
+<td>sich bewegen, acc</td>
+</tr>
+<tr>
+<td>sich bewerben, acc</td>
+</tr>
+<tr>
+<td>sich entscheiden, acc</td>
+</tr>
+<tr>
+<td>sich entschuldigen, acc</td>
+</tr>
+<tr>
+<td>sich erholen, acc</td>
+</tr>
+<tr>
+<td>sich hinlegen, acc</td>
+</tr>
+<tr>
+<td>sich hinsetzen, acc</td>
+</tr>
+<tr>
+<td>sich irren, acc</td>
+</tr>
+<tr>
+<td>sich konzentrieren, acc</td>
+</tr>
+<tr>
+<td>sich trennen (von)</td>
+</tr>
+<tr>
+<td>sich verirren, acc</td>
+</tr>
+<tr>
+<td>sich verlieben, acc</td>
+</tr>
+<tr>
+<td>sich wohlfühlen, acc</td>
+</tr>
+<tr>
+<td>sich etwas überlegen, dat</td>
+</tr>
+<tr>
+<td>sich etwas vorstellen, dat</td>
+</tr>
+<tr>
+<td>sich etwas wünschen, dat</td>
+</tr>
+<tr>
+<td>sich amüsieren, acc</td>
+</tr>
+<tr>
+<td>sich anfühlen, acc</td>
+</tr>
+<tr>
+<td>sich aufregen, acc</td>
+</tr>
+<tr>
+<td>sich auskennen, acc</td>
+</tr>
+<tr>
+<td>sich ausruhen, acc</td>
+</tr>
+<tr>
+<td>sich ausweisen, acc</td>
+</tr>
+<tr>
+<td>sich bedienen, acc</td>
+</tr>
+<tr>
+<td>sich beruhigen, acc</td>
+</tr>
+<tr>
+<td>sich beschäftigen (mit)</td>
+</tr>
+<tr>
+<td>sich einschreiben, acc</td>
+</tr>
+<tr>
+<td>sich entwickeln, acc</td>
+</tr>
+<tr>
+<td>sich erkälten, acc</td>
+</tr>
+<tr>
+<td>sich erkundigen, acc</td>
+</tr>
+<tr>
+<td>sich fortbilden, acc</td>
+</tr>
+<tr>
+<td>sich fragen, acc</td>
+</tr>
+<tr>
+<td>sich fürchten, acc</td>
+</tr>
+<tr>
+<td>sich langweilen, acc</td>
+</tr>
+<tr>
+<td>sich melden, acc</td>
+</tr>
+<tr>
+<td>sich scheiden lassen</td>
+</tr>
+<tr>
+<td>sich täuschen, acc</td>
+</tr>
+<tr>
+<td>sich übergeben, acc</td>
+</tr>
+<tr>
+<td>sich verabreden, acc</td>
+</tr>
+<tr>
+<td>sich verändern, acc</td>
+</tr>
+<tr>
+<td>sich verfahren, acc</td>
+</tr>
+<tr>
+<td>sich verlassen (auf), acc</td>
+</tr>
+<tr>
+<td>sich verstecken, acc</td>
+</tr>
+<tr>
+<td>sich verteidigen, acc</td>
+</tr>
+<tr>
+<td>sich weiterbilden, acc</td>
+</tr>
+<tr>
+<td>sich wundern, acc</td>
+</tr>
+<tr>
+<td>sich vorbereiten, acc</td>
+</tr>
+<tr>
+<td>sich etwas leisten, dat</td>
+</tr>
+<tr>
+<td>sich Zeit nehmen, acc</td>
+</tr>
+<tr>
+<td>sich Zeit lassen, dat</td>
+</tr>
+<tr>
+<td>sich beherrschen, acc</td>
+</tr>
+<tr>
+<td>sich einsetzen, acc</td>
+</tr>
+<tr>
+<td>sich ereignen, acc</td>
+</tr>
+<tr>
+<td>sich gedulden, acc</td>
+</tr>
+<tr>
+<td>sich schämen, acc</td>
+</tr>
+<tr>
+<td>sich sehnen (nach), acc</td>
+</tr>
+<tr>
+<td>sich trauen, acc</td>
+</tr></tbody></table>"
+list	ansichtig, bedu.rftig, eingedenk, gesta.ndig, gewa.rtig, habhaft, (un)kundig, ledig, teilhaftig, verda.chtig, verlustig 
+list	bereits, deutlich, doch, genug, ja, oft, schon
+list	los, muede, satt, teilhaftig, u.bderdru.ssig, wert, wu.rdig, zufrieden 
+list	an + das = ans, an + dem = am, bei + dem = beim, in + das = das, in + dem = im, von + dem = vom, zu + dem = zum, zu + der = zur,<br>aufs = auf + das, durchs = durch + das, fuers = fuer + das, u.bers = u.ber + das, ums = um + das, unters = unter + das <br>speech not writing: auBerm, hinterm, hintern, hinters, u.berm, u.bern, unterm, untern, vorm, vors, an'n, bei'n, durch'n, in'n, mit'm, nach'm, seit'm 
+list	anfangen, beabsichtigen, beginnen, erwarten, fu.rchten, glauben, hoffen, meinen, trachten, vergessen, vermo.gen, versuchen, wagen, wu.nschen 
+list	anregen, auffordern, beantragen, befehlen, befu.rworten, bitten, dra.ngen, eintreten, empfehlen, ersuchen, fordern, raten, veranlassen, verlangen, warnen 
+list	anbieten, einreden, zusichern, vorschlagen
+list	einfach, interessant, leicht, schwer, schwierig
+list	bleiben, finden, and haben followed by a verb of position <br>-haben used w bare inf in a few fixed exprs w adjectives<br>heißen/order, helfen, lehren, lernen: can use one or the other <br>w machen in some idioms, jdn gruseln, lachen, schwindeln, weinen, zittern machen <br>-bare inf after heißen/mean, and nennen/call <br>inf used rather than pp in perfect tense of some verbs which are followed by a bare inf <br>-Sie hat kommen wollen (not gewollt) <br>-used w modal aux, brauchen, lassen, sehen, hören, other verbs of perception, helfen, heißen and other verbs used w a bare inf <br>inf of lassen used often, but pp sometimes used in sense of “leaving something somewhere” or combs fallen lassen, liegen lassen <br>-fühlen and spüren use pp rather now <br>-helfen, heißen, and others accept either 
+list	abstoBend, abwesend, ansteckend, anstrengend, anwesend, auffallend, aufregend, bedeutend, beruhigend, dringend, dru.ckend, einleuchtend, empo.rend, entscheidend, glu.hend, reizend, ru.hrend, spannend, u.berraschend, u.berzeugend, umfassend, verblu.ffend, verlockend, wu.tend 
+list	angebracht, angesehen, aufgebracht, aufgeregt, ausgezeichnet, bekannt, belegt, erfahren, gelehrt, geschickt, verliebt, verru.ckt 
+list	verbs of knowing, containing, possessing, receiving <br>-particularly bedeuten, bekommen, besitzen, enthalten, erhalten, haben, kennen, kriegen, umfassen, wissen 
+list	sein, haben, werden, and modal aux <br>past subj forms of a few other common strong or irreg verbs occur equally often in written german for: finden, geben, gehen, halten, heiBen, kommen, lassen, sprechen, stehen, tun, wissen 
+list	etwas entfa.llt mir, es fa.llt mir leicht/schwer, es fehlt, mangelt mir an etwas, etwas fehlt, mangelt mir, etwas gefa.llt mir, etwas geht mir auf, etwas gelingt mir, etwas tut mir Leid, das leuchtet mir nicht ein, es liegt mir viel an etwas, etwas liegt mir, das genuegt, reicht mir, etwas schmeckt mir 
+list	bedurfen, brauchen (imp), entbehren, ermangeln, gedenken, harren<br>sich bedienen, sich befleißigen, sich bemächtigen, sich enthalten, sich entledigen, sich entsinnen, sich erfreuen, sich erinnern, sich erwehren, sich rühmen, sich schämen, sich vergewissern <br>and acc:<br>anklagen, berauben, versichern
+list	verbs of saying, when introducing indirect speech, after verbs (and other expressions) of feeling, perceiving, hoping, thinking, believing 
+list	das heißt, im Gegenteil, kurz, kurzum, kurz gesagt, kurz und gut, mit anderen Worten, nun, na, sehen Sie, siehst du, so/well then, unter uns gesagt, weiß Gott, wie gesagt, wissen Sie, weißt du, zugegeben/admittedly <br>-zum Beispiel, erstens/firstly, zweitens/secondly, natürlich, offen gesagt 
+list	a.hnlich*, angenehm t, begreiflich, behilflich, bekannt, bequem, bewusst, böse, dankbar, eigen, entbehrlich t, ergeben, fern, fremd, gefa.hrlich t, gefa.llig, nicht geheur, gehorsam, gela.ufig, gemeinsam, gerecht, gesinnt, gewogen, gu.nstig, heilig, hinderlich, klar, la.stig t, leicht t, mo.glich t, nahe *, no.tig, nu.tzlich t, peinlich t, scha.dlich t, schuldig, schwer, teuer, treu *, u.berlegen, verhasst, versta.ndlich t, wichtig t, widerlich, willkommen, zuga.nglich t, zutra.glich 
+predicative	abhold, feind, freund, gram, hold, untertan, zugetan, zuwider, einerlei, egal, gleich, piepe, schnuppe, wurs(ch)t
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	
+"list
+
+"	

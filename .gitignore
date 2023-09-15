@@ -1,6 +1,7 @@
 **/venv/
-txt/europarl
-txt/finished
-
-txt/mv
-txt/THCHS-30
+.flake8
+**/.mypy_cache/
+data/mv
+data/THCHS-30
+data/europarl
+data/finished

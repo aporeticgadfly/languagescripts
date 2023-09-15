@@ -1,3 +1,5 @@
 [flake8]
-ignore = E,W
-per-file-ignores = */scripts/*:E,F,W
+max-line-length = 88
+extend-ignore = E203, W503
+exclude = .git,__pycache__,venv
+

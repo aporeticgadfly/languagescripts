@@ -26,7 +26,6 @@ soup = BeautifulSoup(page.content, "html.parser")
 
 parent_element = soup.find_all(id="vocab_list")[0]
 rows = parent_element.find_all("tr")
-rows = rows[9811 + 7370 :]
 
 total_words = len(rows)
 progress_bar = tqdm(total=total_words, unit=" words")
